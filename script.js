@@ -1,5 +1,5 @@
 async function loadNotes() {
-    const response = await fetch('/notes/index.json');
+    const response = await fetch('/notes/notes_index.json');
     const notes = await response.json();
 
     const board = document.getElementById('board');

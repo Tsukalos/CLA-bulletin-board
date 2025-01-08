@@ -1,7 +1,3 @@
-# Teste Nota 2
+# Sombra estranha perto da ponte!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus venenatis mauris a felis pharetra tempor. Maecenas efficitur faucibus suscipit. Praesent in erat id odio gravida luctus. Curabitur nulla magna, dapibus a erat at, viverra auctor nisl. Duis elementum ante sed dui posuere varius non at ligula. Pellentesque commodo dictum diam, et blandit neque maximus eget. Maecenas pellentesque ut metus sagittis elementum. Sed enim odio, commodo non scelerisque ac, feugiat sed lacus.
-
-Donec nec cursus est. Ut eget tincidunt augue. Integer fringilla sed dui id tristique. Praesent feugiat nisl sed enim dapibus, ut lacinia ante molestie. Duis rutrum quis purus in suscipit. Nullam vel felis vitae ipsum tincidunt consectetur pulvinar non enim. Integer feugiat tortor eget leo viverra, ac ullamcorper purus porta. Donec vehicula diam vitae ultrices sagittis. Aliquam erat volutpat. Pellentesque vel nisi tortor. Praesent pretium tincidunt maximus. In hac habitasse platea dictumst.
-
-In convallis, sapien in porta feugiat, mauris neque euismod sem, at egestas erat libero et diam. Pellentesque eget euismod sem. Etiam a diam ipsum. Fusce quis ante euismod, tempus ex a, iaculis urna. Quisque venenatis venenatis mollis. Etiam sit amet odio urna. Aliquam mollis imperdiet rutrum.
+"Ei, gente! Já notaram aquela sombra estranha perto da ponte velha, à noite? Eu vi ela na semana passada, uma figura esquisita que se move rápido demais. Um homem ou algo assim, mas ninguém vê de perto. Dizem que é um espírito vingativo, mas quem souber mais sobre isso pode vir até a minha oficina, quero saber se é coisa de bruxo ou se é só fantasia. Recompensa em peças de ferro e alguns serviços! Alguém tem que parar isso!" – André Espeto, o ferreiro.
