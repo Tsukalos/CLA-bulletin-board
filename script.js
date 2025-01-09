@@ -31,7 +31,7 @@ async function loadNotes() {
         noteElement.dataset.file = note.file;
 
         noteElement.addEventListener('click', async () => {
-            const res = await fetch(`/notes/${note.file}`);
+            const res = await fetch(`./notes/${note.file}`);
             const text = await res.text();
             const markdown = marked.parse(text);
             modalContent.innerHTML = markdown;
